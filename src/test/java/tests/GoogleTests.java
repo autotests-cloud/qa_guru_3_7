@@ -1,5 +1,6 @@
 public class GoogleTests {
-  void successfulSearch() {
 
+  void successfulSearch() {
+    String hello = "Hello World";
   }
 }
